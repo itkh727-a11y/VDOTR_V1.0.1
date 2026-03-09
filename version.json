@@ -1,7 +1,7 @@
 {
   "version": "V1.0.3",
   "release_date": "2026-03-09",
-  "download_url": "https://github.com/mengsinmkh1/VDOTR/releases/download/V1.0.1/VDOTR.exe",
+  "download_url": "https://github.com/itkh727-a11y/VDOTR_V1.0.1/releases/download/V1.0.3/VDOTR.exe",
   "changelog": [
     "Initial release — AI Video Dubber Ultimate",
     "Auto Transcribe with Gemini 2.0 Flash & Groq Whisper",
@@ -10,5 +10,6 @@
     "Export MP3, Export Video, Export to CapCut"
   ]
 }
+
 
 
