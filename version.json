@@ -1,0 +1,12 @@
+{
+  "version": "V1.0.1",
+  "release_date": "2026-03-09",
+  "download_url": "https://github.com/mengsinmkh1/VDOTR/releases/download/V1.0.1/VDOTR.exe",
+  "changelog": [
+    "Initial release — AI Video Dubber Ultimate",
+    "Auto Transcribe with Gemini 2.0 Flash & Groq Whisper",
+    "Video Effects: Blur, Text Overlay, Logo Overlay",
+    "Timeline Editor with Echo control",
+    "Export MP3, Export Video, Export to CapCut"
+  ]
+}
