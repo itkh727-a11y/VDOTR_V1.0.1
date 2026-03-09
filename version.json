@@ -1,5 +1,5 @@
 {
-  "version": "V1.0.1",
+  "version": "V1.0.2",
   "release_date": "2026-03-09",
   "download_url": "https://github.com/mengsinmkh1/VDOTR/releases/download/V1.0.1/VDOTR.exe",
   "changelog": [
@@ -10,3 +10,4 @@
     "Export MP3, Export Video, Export to CapCut"
   ]
 }
+
